@@ -1,0 +1,26 @@
+from enum import Enum
+
+
+class Datakeys(Enum):
+    REQUESTS = "Requests"
+    CONSUMED_EPRS = "Consumed EPRs"
+    NUMBER_OF_NODES = "Number of Nodes"
+    TOTAL_ROUTE_FIDELITY = "Total Route Fidelity"
+    TOTAL_REQUEST_SUCCESS = "Total Request Success"
+    TOTAL_REQUEST_FAILS = "Total Request Fails"
+    TOTAL_NO_PATHS = "Total No Paths"
+    TOTAL_ROUTE_LENGTH = "Total Route Length"
+    TOTAL_REQUEST_ATTEMPTS = "Total Request Attempts"
+    TOTAL_ENTANGLEMENT_ATTEMPTS = "Total Entanglement Attempts"
+    TOTAL_SWAPPING_ATTEMPTS = "Total Swapping Attempts"
+    TOTAL_SWAPPING_SUCCESS = "Total Swapping Success"
+    TOTAL_SWAPPING_FAILS = "Total Swapping Fails"
+    TOPOLOGY = "Topology"
+    NUMBER_OF_BLACK_HOLES = "Black Holes"
+    TARGETS_PER_BLACK_HOLE = "Targets per Black Hole"
+    SIMULATION_TIME = "Simulation Time"
+    ATTACK_TYPE = "Attack Type"
+    PARAMETER = "Parameter"
+    BLACK_HOLE_SWAP_PROB = "Black Hole Swap Prob"
+    NORMAL_NODE_SWAP_PROB = "Normal Node Swap Prob"
+    INTENSITY = "Intensity"

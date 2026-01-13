@@ -3,9 +3,9 @@ name = "ML-QBlackHole"
 dynamic = ["version"]
 requires-python = ">= 3.12"
 dependencies = [
-  "matplotlib",
-  "pandas",
-  "scikit-learn"
+  "pandas>=2.0.0",
+  "scikit-learn>=1.7.0",
+  "seaborn>=0.13.2"
 ]
 
 

@@ -58,6 +58,8 @@ Dentro do _jupyter lab_ é necessário encontrar o arquivo `default_simulations_
 
 ## Artefatos
 
+O dataset foi obtido por meio do código disponível no [repositório público](https://github.com/Arthur-Negrao-Smith/SeQUeNCe-Black-Hole-Attack) dos mesmo autores desse atual. A opção de manter o dataset pelo plataforma _Google Drive_ como uma forma de facilitar a distribuição dos dados foi a solução encontrada para trasnpassar as limitações da plataforma, tendo em vista que o _GitHub_ tem limitações de tamanho para arquivos muito grandes.
+
 - [Dataset utilizado](https://drive.google.com/file/d/1UXbmwkoH_ewnbYrjmwbx-MA3c38hd9eD/view?usp=sharing)
 
 ## Autores
